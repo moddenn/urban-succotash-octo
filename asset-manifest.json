@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/urban-succotash-octo/static/css/main.d1ad3f36.css",
+    "main.js": "/urban-succotash-octo/static/js/main.b680adb1.js",
+    "static/js/592.d265fd0d.chunk.js": "/urban-succotash-octo/static/js/592.d265fd0d.chunk.js",
+    "index.html": "/urban-succotash-octo/index.html",
+    "main.d1ad3f36.css.map": "/urban-succotash-octo/static/css/main.d1ad3f36.css.map",
+    "main.b680adb1.js.map": "/urban-succotash-octo/static/js/main.b680adb1.js.map",
+    "592.d265fd0d.chunk.js.map": "/urban-succotash-octo/static/js/592.d265fd0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ad3f36.css",
+    "static/js/main.b680adb1.js"
+  ]
+}
